@@ -20,7 +20,7 @@ As part of the activities of Udacity's Data Science Nanodegree I'm enrolled, I h
 2. What characteristics are good predictors of the patient status?
 3. What are the riskiest COVID-19 infection locations in Seoul (where infected people have visited the most)?
 
-## File Descriptions <a name="files"></a>
+## Repository Structure / Files <a name="files"></a>
 
 The `data` folder comprises the dataset's data as well as Seoul's shapefiles, found in [this publicly available repo](https://github.com/southkorea/seoul-maps). The `code` folder contains the draft and final notebooks for each of the analysis questions stated above. 
 
