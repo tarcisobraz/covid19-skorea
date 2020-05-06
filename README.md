@@ -32,4 +32,4 @@ The main findings of the code can be found at the post available [here]().
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to [South Korea's Github organization](https://github.com/southkorea) for the shapefile data. You can find the Licensing for the COVID-19 data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/kimjihoo/coronavirusdataset).  Otherwise, feel free to use the code here as you would like!
+Must give credit to [South Korea's Github organization](https://github.com/southkorea) for the shapefile data. You can find the Licensing for the COVID-19 data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/kimjihoo/coronavirusdataset). Feel free to use the code provided that you give credits / cite this repo, as well as to contribute.
