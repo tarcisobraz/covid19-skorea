@@ -22,7 +22,7 @@ As part of the activities of Udacity's Data Science Nanodegree I'm enrolled, I h
 
 ## Repository Structure / Files <a name="files"></a>
 
-The `data` folder comprises the dataset's data as well as Seoul's shapefiles, found in [this publicly available repo](https://github.com/southkorea/seoul-maps). The `code` folder contains the draft and final notebooks for each of the analysis questions stated above. 
+The `data` folder comprises the dataset's data as well as Seoul's shapefiles, found in [this publicly available repo](https://github.com/southkorea/seoul-maps). The `code` folder contains the draft and final notebooks for each of the analysis questions stated above. The `assets` folder contains the images generated for each of the analysis questions stated above, which are used in the final report post.
 
 The draft notebooks are more exploratory and thus contain less documentation and the steps are not necessarily follow a structured line of thought. The final notebooks are revised and documented versions of the drafts, and were responsible to generate the visualizations and results of the analyses.
 
