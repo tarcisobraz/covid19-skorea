@@ -16,9 +16,9 @@ The code assumes you use Anaconda (Python 3) with the following extra libraries 
 
 As part of the activities of Udacity's Data Science Nanodegree I'm enrolled, I have to choose a publicly available dataset and run a data analysis on it. I wanted to do something which would be relevant to the current world context. As we are going through the COVID-19 pandemic, I decided to build my project on this subject. For this analysis, I use [South Korea's publicly available COVID-19 dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset), aiming at answering the following questions:
 
-1. How did the disease spread within South Korea's provinces over time?
+1. How did the disease spread within the provinces over time?
 2. What characteristics are good predictors of the patient status?
-3. What are the riskiest COVID-19 infection locations in Seoul (where infected people have visited the most)?
+3. What are the riskiest locations for COVID-19 infection in Seoul (where infected people have visited the most)?
 
 ## Repository Structure / Files <a name="files"></a>
 
@@ -28,7 +28,7 @@ The draft notebooks are more exploratory and thus contain less documentation and
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@tarcisocomp/stop-relying-on-your-gut-and-go-data-driven-insights-from-south-koreas-covid-19-data-929204190a1b).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
